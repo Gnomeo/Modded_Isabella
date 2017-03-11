@@ -1,7 +1,7 @@
 # Modded_Isabella
 Resource pack: Isabella II for modded Minecraft
 
-Modded_Isabella is an expanded resource pack for [Isabella II](http://www.minecraftforum.net/topic/242175-Isabella/) by Bonemouse. It adds support for some of the mods I have come to enjoy.  Currently supporting Minecraft version 1.10.2.  I also have a separate file for my personal texture tweaks.  This allows me to change the look of the vanilla textures without needing to change the source every time the main textures update.
+Modded_Isabella is an expanded resource pack for [Isabella II](http://www.minecraftforum.net/topic/242175-Isabella/) by Bonemouse. It adds support for some of the mods I have come to enjoy.  I'm currently using the FTB Beyond modpack for Minecraft version 1.10.2.  I also have a separate file for my personal texture tweaks.  This allows me to change the look of the vanilla textures without needing to change the source every time the main textures update.
 
 # Helpful links:
 
