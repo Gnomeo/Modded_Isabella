@@ -1,7 +1,6 @@
 # Modded_Isabella
 Resource pack: Isabella II for modded Minecraft
 
-Modded_Isabella is an expanded resource pack for [Isabella II](http://www.minecraftforum.net/topic/242175-Isabella/) by Bonemouse. It adds support for some of the mods I have come to enjoy.
 
 # Helpful links:
 
