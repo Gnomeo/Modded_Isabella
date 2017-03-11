@@ -5,7 +5,7 @@ Modded_Isabella is an expanded resource pack for [Isabella II](http://www.minecr
 
 # Helpful links:
 
-Current Vanilla texture source: [Isabella II Status Thread](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/resource-pack-discussion/2745599-isabella-ii-status-thread-updated-12-december-2016)
+Current Vanilla texture source by yurisuika: [Isabella II Status Thread](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/resource-pack-discussion/2745599-isabella-ii-status-thread-updated-12-december-2016)
 
 [Original Minecraft Forum Thread for Isabella II](http://www.minecraftforum.net/topic/242175-Isabella/)
 
